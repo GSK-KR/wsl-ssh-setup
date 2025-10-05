@@ -1,0 +1,40 @@
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# PowerShell session files
+*.psess
+*.vsp
+*.pslog
+
+# Windows thumbnail cache
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin
+$RECYCLE.BIN/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# JetBrains IDEs
+.idea/
+*.iml
+
+# System files
+.DS_Store
+*~
+
+# Backup files
+*.bak
+*.backup
+*.old
+
+# User-specific files
+*.user
+*.suo
